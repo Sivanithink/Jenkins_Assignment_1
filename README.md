@@ -33,14 +33,14 @@ Here are the key screenshots from the Jenkins assignment, showcasing the pipelin
     ![Screenshot 2025-05-20 105936](https://github.com/user-attachments/assets/a4eb51a2-a362-4860-ab43-904b90da5129)
 
 
-## Summary of Learnings
+## Brief summary (3-5 sentences) describing what you learned about Jenkins navigation
 
 Through this assignment, I gained a practical understanding of Jenkins navigation and pipeline fundamentals:
-* I learned to navigate the Jenkins dashboard to view jobs, the build queue, and build executor status. [cite: 6]
-* I successfully created a pipeline job named "HelloJenkins" and defined several stages within it, including Build, Test, Deploy, and later a Cleanup stage. [cite: 7]
-* After running the pipeline, I utilized the Stage View to visually track the progress and success of each stage. [cite: 8]
-* I also became familiar with accessing and interpreting the Console Output to check detailed logs and messages generated during the build process for each stage. [cite: 9]
-* This entire exercise helped solidify my understanding of how to effectively navigate Jenkins, manage and execute jobs, and monitor their outcomes. [cite: 10]
+* I learned to navigate the Jenkins dashboard to view jobs, the build queue, and build executor status.
+* I successfully created a pipeline job named "HelloJenkins" and defined several stages within it, including Build, Test, Deploy, and later a Cleanup stage.
+* After running the pipeline, I utilized the Stage View to visually track the progress and success of each stage.
+* I also became familiar with accessing and interpreting the Console Output to check detailed logs and messages generated during the build process for each stage.
+* This entire exercise helped solidify my understanding of how to effectively navigate Jenkins, manage and execute jobs, and monitor their outcomes.
 
 ---
 
